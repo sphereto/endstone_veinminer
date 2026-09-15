@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-09-15
+
 ### Added
 - Initial release of VeinMiner
 - Flood-fill vein breaking for connected same-type blocks
